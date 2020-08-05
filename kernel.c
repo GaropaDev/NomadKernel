@@ -11,7 +11,7 @@
  *     13/d - Light Magenta, 14/e - Light Brown, 15/f – White.
  */
 
-#define KERNEL_TITLE "Nomad Kernel\n"
+#define KERNEL_TITLE "Nomad Kernel"
 #define KERNEL_VERSION "Stay Forever"
 
 #include "kScreen.h"

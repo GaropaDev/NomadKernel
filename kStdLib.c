@@ -7,13 +7,3 @@
 
 #include "kStdLib.h"
 
-int kStrLen(char *str){
-	char *tmpStr;
-
-	tmpStr = str;
-
-	while(*tmpStr != 0){
-		tmpStr++;
-	}
-	return tmpStr - str;
-}
